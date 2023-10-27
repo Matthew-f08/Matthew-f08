@@ -20,7 +20,7 @@ I'm recent graduate from Stony Brook University with a degree in Physics. I'm pa
 
 
 
-[![LinkedIn](https://www.linkedin.com/in/YourProfileURL/)
+
 
 
 
